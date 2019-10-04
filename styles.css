@@ -1,1 +1,22 @@
-/* CSS CODE HERE */
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+/* ---------------navbar--------------- */
+
+#navbar {
+    width: 100%;
+    height: 50px;
+    background-color: #222222;
+}
+
+#razorlogo1 {
+    height: 15px;
+    padding-top: 18px;
+    padding-left: 450px;
+}
+
+.navbarli {
+    
+}
