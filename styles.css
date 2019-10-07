@@ -10,6 +10,7 @@
     height: 50px;
     background-color: #222222;
     list-style-type: none;
+    position: fixed;
 }
  
 #razorlogo1 {
@@ -52,31 +53,39 @@
 /* ---------------hero1--------------- */
  
 #hero1 {
-    height: 726.750px;
+    height: 700px;
     width: 100%;
-    background-image: url(https://d4kkpd69xt9l7.cloudfront.net/sys-master/images/he0/h59/9268229242910/LOS-V2-razer-huntsman-elite-desktop-home-large.jpg)
+    background-image: url(https://d4kkpd69xt9l7.cloudfront.net/sys-master/images/he0/h59/9268229242910/LOS-V2-razer-huntsman-elite-desktop-home-large.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
 }
 
 #herotitle1 {
     font-family: Conv_RazerF5Light,Arial;
-    font-size: 2.5rem;
+    font-size: 2.25rem;
     color: #999;
     line-height: 1;
     padding-left: 0px;
     text-align: center;
+    letter-spacing: .0625rem;
+    width: 100%;
 }
 
 #herotitle15 {
     font-family: Conv_RazerF5Light,Arial;
-    font-size: 2.5rem;
+    font-size: 2.25rem;
     color: #999;
     line-height: 1;
     padding-left: 0px;
     text-align: center;
+    letter-spacing: .0625rem;
 }
 
 #herotitle11 {
+    padding-top: 120px;
     text-align: center;
+    float: left;
+    width: 100%;
 }
 
 #herotitle3 {
@@ -86,4 +95,48 @@
     display: block;
     color: white;
     padding-top: 5px;
+}
+
+#arrow {
+    color: #44d62c;
+    font-family: Conv_RazerF5SemiBold,Arial;
+    font-size: 1.25rem;
+    letter-spacing: .0625rem;
+}
+
+/* ---------------hero2--------------- */
+
+#divider {
+    height: 10px;
+    width: 100%;
+    background-color:  #222;
+}
+
+#hero2 {
+    height: 700px;
+    width: 100%;
+    background-image: url(https://d4kkpd69xt9l7.cloudfront.net/sys-master/images/hb7/hf2/9235089719326/razer-blade-15-GTX-1660-desktop-home-large-v2.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    box-sizing: border-box;
+}
+
+#herotitle22 {
+    padding-top: 70px;
+    text-align: center;
+}
+
+#rthing {
+    font-size: 1.75rem;
+}
+
+/* ---------------hero3--------------- */
+
+#hero3 {
+    height: 700px;
+    width: 100%;
+    background-image: url(https://d4kkpd69xt9l7.cloudfront.net/sys-master/images/h26/h52/9265495638046/razer-seiren-emote-homepage-large.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    box-sizing: border-box;
 }
