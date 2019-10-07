@@ -43,7 +43,12 @@
     padding-left: 10px;
     padding-right: 12px;
 }
- 
+
+#topnav{
+    padding-bottom: 100px;
+}
+
+
 /* ---------------hero1--------------- */
  
 #hero1 {
@@ -51,11 +56,34 @@
     width: 100%;
     background-image: url(https://d4kkpd69xt9l7.cloudfront.net/sys-master/images/he0/h59/9268229242910/LOS-V2-razer-huntsman-elite-desktop-home-large.jpg)
 }
- 
+
 #herotitle1 {
     font-family: Conv_RazerF5Light,Arial;
     font-size: 2.5rem;
     color: #999;
     line-height: 1;
+    padding-left: 0px;
     text-align: center;
+}
+
+#herotitle15 {
+    font-family: Conv_RazerF5Light,Arial;
+    font-size: 2.5rem;
+    color: #999;
+    line-height: 1;
+    padding-left: 0px;
+    text-align: center;
+}
+
+#herotitle11 {
+    text-align: center;
+}
+
+#herotitle3 {
+    font-family: Conv_RazerF5SemiBold,Arial;
+    font-size: 1.25rem;
+    line-height: 1.5;
+    display: block;
+    color: white;
+    padding-top: 5px;
 }
