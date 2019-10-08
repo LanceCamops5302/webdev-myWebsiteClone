@@ -90,7 +90,7 @@
 
 #herotitle15 {
     font-family: Conv_RazerF5Light,Arial;
-    font-size: 2.25rem;
+    font-size: 2.125rem;
     color: #999;
     line-height: 1;
     padding-left: 0px;
@@ -107,7 +107,7 @@
 
 #herotitle3 {
     font-family: Conv_RazerF5SemiBold,Arial;
-    font-size: 1.25rem;
+    font-size: 1.125rem;
     line-height: 1.5;
     display: block;
     color: white;
@@ -165,7 +165,7 @@
 #hero4 {
     height: 570px;
     width: 946.5px;
-    background-image: url(https://d4kkpd69xt9l7.cloudfront.net/sys-master/images/h66/h4e/9265495506974/KrakenKittyEdition-B-950x580-desktop.jpg);
+    background-image: url(https://d4kkpd69xt9l7.cloudfront.net/sys-master/images/hb9/h94/9276931014686/B-razer-blade-pro-d17-950x580-desktop.jpg);
     background-position: center;
     background-repeat: no-repeat;
     box-sizing: border-box;
@@ -183,4 +183,101 @@
     width: 10px;
     height: 570px;
     float: left;
+}
+
+/* ---------------hero5--------------- */
+
+#hero5 {
+    height: 570px;
+    width: 946.5px;
+    background-image: url(https://d4kkpd69xt9l7.cloudfront.net/sys-master/images/h66/h4e/9265495506974/KrakenKittyEdition-B-950x580-desktop.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    box-sizing: border-box;
+    text-align: center;
+    float: left;
+}
+
+#herotitle25 {
+    padding-top: 70px;
+    text-align: center;
+}
+
+/* ---------------hero6--------------- */
+
+#divider2 {
+    height: 10px;
+    width: 100%;
+    background-color:  #222;
+    padding-top: 570px;
+}
+
+#hero6 {
+    height: 570px;
+    width: 946.5px;
+    background-image: url(https://d4kkpd69xt9l7.cloudfront.net/sys-master/images/h2c/h52/9241429573662/razer-arctech-B-950x580-desktop.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    box-sizing: border-box;
+    text-align: center;
+    float: left;
+}
+
+#herotitle26 {
+    padding-top: 70px;
+    text-align: center;
+}
+
+/* ---------------hero7--------------- */
+
+#hero7 {
+    height: 570px;
+    width: 946.5px;
+    background-image: url(https://d4kkpd69xt9l7.cloudfront.net/sys-master/images/hb4/haa/9268895547422/razer-BCRF-B-950x580-desktop.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    box-sizing: border-box;
+    text-align: center;
+    float: left;
+}
+
+#herotitle27 {
+    padding-top: 70px;
+    text-align: center;
+}
+
+/* ---------------hero8--------------- */
+
+#hero8 {
+    height: 570px;
+    width: 946.5px;
+    background-image: url(https://d4kkpd69xt9l7.cloudfront.net/sys-master/images/h73/hae/9268895678494/razer-respawn-homepage-B-Desktop.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    box-sizing: border-box;
+    text-align: center;
+    float: left;
+}
+
+#herotitle28 {
+    padding-top: 70px;
+    text-align: center;
+}
+
+/* ---------------hero9--------------- */
+
+#hero9 {
+    height: 570px;
+    width: 946.5px;
+    background-image: url(https://d4kkpd69xt9l7.cloudfront.net/sys-master/images/hd5/h3b/9185281343518/razer-insider-B-950x580-desktop.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    box-sizing: border-box;
+    text-align: center;
+    float: left;
+}
+
+#herotitle29 {
+    padding-top: 70px;
+    text-align: center;
 }
