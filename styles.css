@@ -381,12 +381,17 @@
     padding-top: 10px;
 }
 
+.socialimg{
+    width: 16px;
+    height: 16px;
+}
+
 #copyright {
     color:rgb(119,119,119);
     font-size: 12px;
     font-family: Roboto,Helvetica,Arial,sans-serif;
     width: 500px;
     height: 20px;
-    padding-top: 80px;
-    padding-left: 50px;
+    padding-top: 250px;
+    padding-left: 250px;
 }
