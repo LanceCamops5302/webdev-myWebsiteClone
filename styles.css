@@ -16,6 +16,7 @@
 .navicon{
     height: 24px;
     width: 24px;
+    padding-bottom: 100px;
 }
 
 .spacenav{
@@ -48,11 +49,14 @@
 .usbox {
     border: 1px solid rgb(119,119,119);
     margin-left: 15px;
+    padding-bottom: 3px;
 }
  
 .ustext {
     padding-left: 10px;
     padding-right: 12px;
+    padding-top: 5px;
+    padding-bottom: 3px;
 }
 
 #topnav{
